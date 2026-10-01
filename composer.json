@@ -1,0 +1,14 @@
+
+{
+    "name" : "custom/engine",
+    "description": "A lightweight custom PHP engine built from scratch",
+    "type" : "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+"require": {}
+
+}
+
